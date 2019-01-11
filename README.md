@@ -1,6 +1,6 @@
 # Board-Game-Review-Prediction
 
-This is a machine learning project for board game review prediction developed using both Linear Regression Model and
+This is a board game review prediction model developed using machine learning algorithms Linear Regression and
 Random Forest Classifier in Python.
 
 Random Forest Classifier was found to be more efficient than Linear Regression.
