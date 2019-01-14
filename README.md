@@ -7,8 +7,8 @@ Random Forest Classifier was found to be more efficient than Linear Regression.
 
 Steps to download the dataset:-
 
-Go to https://github.com/ThaWeatherman/scrapers.
+1) Go to https://github.com/ThaWeatherman/scrapers.
 
-Clone or Download the entire project.
+2) Clone or Download the entire project.
 
-Save "games.csv" from boardgamegeek folder.It is our dataset.
+3) Save "games.csv" from boardgamegeek folder.It is our dataset.
