@@ -17,4 +17,8 @@ Steps to download the dataset:-
 
 ![screen shot 2019-02-22 at 12 53 47 am](https://user-images.githubusercontent.com/31860248/53195934-bee30f00-363c-11e9-9077-cc5b3c695dce.png)
 
+### Histogram of Average ratings after removal of paramets without user-review
+
+![screen shot 2019-02-22 at 1 00 05 am](https://user-images.githubusercontent.com/31860248/53196236-8bed4b00-363d-11e9-934a-a0447f1162b7.png)
+
 
