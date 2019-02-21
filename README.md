@@ -13,7 +13,7 @@ Steps to download the dataset:-
 3) Save "games.csv" from boardgamegeek folder.It is our dataset.
 
 
-### Data Preprocessing and Visualization :- 
+### Data Preprocessing :-
 
 
 ##### Histogram of Average Ratings (one of the core parameters in the dataset)
