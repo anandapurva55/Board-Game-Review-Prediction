@@ -25,6 +25,8 @@ Steps to download the dataset:-
 
 ![screen shot 2019-02-22 at 1 00 54 am](https://user-images.githubusercontent.com/31860248/53196335-dbcc1200-363d-11e9-871a-837123a49a9a.png)
 
-### Final Prediction
+### Final Prediction (using 90th row from the dataset itself as a sample input)
+
+![screen shot 2019-02-22 at 1 10 37 am](https://user-images.githubusercontent.com/31860248/53196718-affd5c00-363e-11e9-9402-ef3aaecd7654.png)
 
 
