@@ -13,19 +13,24 @@ Steps to download the dataset:-
 3) Save "games.csv" from boardgamegeek folder.It is our dataset.
 
 
-#### Histogram of Average Ratings (one of the core parameters in the dataset)
+### Data Preprocessing and Visualization :- 
+
+
+##### Histogram of Average Ratings (one of the core parameters in the dataset)
 
 ![screen shot 2019-02-22 at 12 53 47 am](https://user-images.githubusercontent.com/31860248/53195934-bee30f00-363c-11e9-9077-cc5b3c695dce.png)
 
-### Histogram of Average ratings after removal of parameters without user-review
+#### Histogram of Average ratings after removal of parameters without user-review
 
 ![screen shot 2019-02-22 at 1 00 05 am](https://user-images.githubusercontent.com/31860248/53196236-8bed4b00-363d-11e9-934a-a0447f1162b7.png)
 
-### Corelation Matrix (Plotted using Pandas, Matplotlib and Seaborn modules)
+#### Corelation Matrix (Plotted using Pandas, Matplotlib and Seaborn modules)
 
 ![screen shot 2019-02-22 at 1 00 54 am](https://user-images.githubusercontent.com/31860248/53196335-dbcc1200-363d-11e9-871a-837123a49a9a.png)
 
-### Final Prediction (using 90th row from the dataset itself as a sample input)
+### ML algorithms:-
+
+#### Final Prediction (using 90th row from the dataset itself as a sample input)
 
 ![screen shot 2019-02-22 at 1 10 37 am](https://user-images.githubusercontent.com/31860248/53196718-affd5c00-363e-11e9-9402-ef3aaecd7654.png)
 
