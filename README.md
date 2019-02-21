@@ -13,5 +13,8 @@ Steps to download the dataset:-
 3) Save "games.csv" from boardgamegeek folder.It is our dataset.
 
 
+#### Histogram of Average Ratings (one of the core parameters in the dataset)
+
+![screen shot 2019-02-22 at 12 53 47 am](https://user-images.githubusercontent.com/31860248/53195934-bee30f00-363c-11e9-9077-cc5b3c695dce.png)
 
 
