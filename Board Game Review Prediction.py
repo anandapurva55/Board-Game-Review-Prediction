@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # In[33]:
-
 
 import sys
 import matplotlib
@@ -180,19 +176,7 @@ print(rating_LR)
 print(rating_RFR)
 
 
-# In[ ]:
 
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
