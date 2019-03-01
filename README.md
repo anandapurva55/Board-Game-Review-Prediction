@@ -30,7 +30,7 @@ Steps to download the dataset:-
 
 ### ML algorithms:-
 
-#### Final Prediction (using 90th row from the dataset itself as a sample input)
+#### Final Prediction
 
 ![screen shot 2019-02-22 at 1 10 37 am](https://user-images.githubusercontent.com/31860248/53196718-affd5c00-363e-11e9-9402-ef3aaecd7654.png)
 
